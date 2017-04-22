@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="45" height="45">
+    <circle r="8" cx="0%" cy="0%"  fill="rgba(14, 117, 54, 0.62)"/>
+    <circle r="8" cx="0%" cy="100%"  fill="rgba(14, 117, 54, 0.62)"/>
+    <circle r="8" cx="100%" cy="0%"  fill="rgba(14, 117, 54, 0.62)"/>
+    <circle r="8" cx="100%" cy="100%"  fill="rgba(14, 117, 54, 0.62)"/>
+</svg>
